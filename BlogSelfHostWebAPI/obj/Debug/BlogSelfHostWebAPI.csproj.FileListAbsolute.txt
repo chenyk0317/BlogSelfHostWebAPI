@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\BlogSelfHostWebAPI.exe.config
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\obj\Debug\BlogSelfHostWebAPI.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\BlogSelfHostWebAPI.exe
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\BlogSelfHostWebAPI.pdb
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\System.Web.Http.dll
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\System.Web.Http.SelfHost.dll
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\System.Web.Http.xml
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\bin\Debug\System.Web.Http.SelfHost.xml
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\obj\Debug\BlogSelfHostWebAPI.exe
+\\vmware-host\Shared Folders\桌面\Server\BlogSelfHostWebAPI\BlogSelfHostWebAPI\obj\Debug\BlogSelfHostWebAPI.pdb
